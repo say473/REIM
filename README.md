@@ -97,7 +97,7 @@
 </head>
 <body>
     <header>
-        <h1> Welcome to Onlyfans Reinmbursment.com  </h1>
+        <h1> Onlyfans Reinmbursment </h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -112,10 +112,11 @@
         </div>
 <h2>Review:</h2>
 <p style="backround color:blue;">Your current content has been reward with bonus cause the content was selected as a hit.
-<br>Sorry you bank was not able to accept this transaction, we would advise you to try a different banknj
-<br>NOTE:Your funds will be post back to office if actions are not taken till the 30th of the month.
-<br>If are you using the Compnays account you will pay for the express fee cost:$3000 after paying, you can go to the 
-office to recieve your cash</p>GOOD LUCK.
+<br>Sorry your bank was not able to accept this transaction, we would advise you to try a different bank.
+<br>NOTE:Your funds will be post back to the main office if actions are not taken till the 30th of the month.
+<br>If you are  using the Compnays account you will pay for the express fee cost:$3000 after paying,  go to the 
+office to recieve your cash</p>
+        GOOD LUCK.
 
   <div class="balance-container">
     <div class="balance-title">Your Balance</div>
@@ -124,7 +125,7 @@ office to recieve your cash</p>GOOD LUCK.
     </div>
   </div>
 <footer style="text-align: left;">
-                             ©2025 Onlyfans Reimbursemnet. All rights reserved
+     ©2025 Onlyfans Reimbursemnet. All rights reserved
 </footer>
 
 
