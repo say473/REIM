@@ -97,7 +97,7 @@
 </head>
 <body>
     <header>
-        <h1> Welcome to Onlyfans Reinmbursment.co  </h1>
+        <h1> Welcome to Onlyfans Reinmbursment.com  </h1>
     </header>
     <nav>
         <a href="#home">Home</a>
