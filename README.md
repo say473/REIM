@@ -128,5 +128,4 @@ office to recieve your cash</p>GOOD LUCK.
 </footer>
 
 
-</body>
-</html>
+
